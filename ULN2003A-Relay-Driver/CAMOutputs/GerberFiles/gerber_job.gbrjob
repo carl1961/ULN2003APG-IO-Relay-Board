@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-07-18T04:09:37Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ULN2003A-Relay-Driver"
+        },
+        "Owner": "Carl Shelton <cmshelton2021@protonmail.com>",
+        "Size": {
+            "X": 50.78,
+            "Y": 45.39
+        }
+    }
+}
